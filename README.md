@@ -10,16 +10,29 @@ O sistema realiza autenticação de usuários, processamento de dados e integra�
 Linguagens utilizadas
 
 HTML
+
 CSS
+
 JavaScript
+
 Python
+
+
 Funcionalidades
+
 Sistema de login de usuários
+
 Integração com APIs
+
 Páginas dinâmicas com JavaScript
-Interface construída com HTML e CSS
+
+Interface construída com HTML e CS
+
+
 Backend em Python
+
 Manipulação e persistência de dados com banco de dados relacional (MySQL)
+
 Desenvolvimento
 
 Durante o desenvolvimento, foram utilizadas ferramentas de Inteligência Artificial como suporte para aumentar a produtividade, auxiliar na implementação de funcionalidades e apoiar na resolução de problemas técnicos.
